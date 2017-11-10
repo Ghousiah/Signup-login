@@ -1,4 +1,4 @@
-# Signup-login
+# Signup-login API
 
 This project was generated with NodeJs version 8.2.1.
 
