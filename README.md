@@ -20,6 +20,10 @@ Test API
 
 Use Postman or any other tool to test the API.
 
+For Explanation
+
+Reach out to https://ghousiaweb.wordpress.com/2017/11/02/how-to-make-authenticated-user-login-and-registration-with-encryption-using-nodejs-and-mysql-with-example/
+
 Further help
 
 To get more help you can go checkout nodejs.org, expressjs.com
